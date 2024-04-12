@@ -4,7 +4,7 @@ public class Program10 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("This Program is solved bt Niraj Ramnani");
+		System.out.println("This Program is solved by");
 		double a,b,c;
 		System.out.println("Enter value of a ");
 		a = sc.nextDouble();
